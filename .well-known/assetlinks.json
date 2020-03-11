@@ -1,0 +1,18 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gogoro.network",
+    "sha256_cert_fingerprints":
+    ["80:CD:D2:0F:AF:C9:01:2A:88:28:47:7E:C0:B2:55:55:DF:8A:0E:3C:77:01:B2:D0:94:26:9F:EB:01:2B:E1:EC"]
+  }
+ },
+ {
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.gogoro.smartclient",
+    "sha256_cert_fingerprints":
+    ["29:5F:FE:E4:27:AF:5D:65:88:EC:5B:DA:95:0B:1E:14:FB:9B:98:DB:27:C4:D9:E6:BB:A2:0D:72:96:3E:BE:BB"]
+ }
+}]
