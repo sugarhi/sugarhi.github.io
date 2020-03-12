@@ -1,3 +1,2 @@
 include: [".well-known"]
-include: ["map"]
 theme: jekyll-theme-slate
